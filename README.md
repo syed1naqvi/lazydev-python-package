@@ -25,7 +25,7 @@ pip install lazydev
 ```
 Or if you would like to install directly from the source, use:
 ```
-git clone https://github.com/software-students-spring2025/3-python-package-pyunit.git
+git clone https://github.com/syed1naqvi/lazydev-python-package.git
 cd lazydev
 pip install .
 ```
@@ -100,7 +100,7 @@ BREAK TIME: Grab a drink! I recommend a coffee. You can buy some around your nei
 ```
 
 ## Example Program
-For a complete example that uses all the functions, check out this example script: 🔗 [lazydev_example.py](https://github.com/software-students-spring2025/3-python-package-pyunit/blob/main/lazydev_example)
+For a complete example that uses all the functions, check out this example script: 🔗 [lazydev_example.py](https://github.com/syed1naqvi/lazydev-python-package/blob/main/lazydev_example)
 ```
 from lazydev import lazy_commit_message, lazy_pull_request, lazy_test_excuse, procrastination_tip
 
@@ -115,7 +115,7 @@ Follow these steps to set up your environment in order to contribute!
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/software-students-spring2025/3-python-package-pyunit.git
+git clone https://github.com/syed1naqvi/lazydev-python-package.git
 cd lazydev
 ```
 
