@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "lazydev_pyunit"
 description = "A lazy commit message, pull request, excuse and procrastination generator for lazy devs with automated build and test workflows."
-version = "2.0.0"
+version = "2.0.1"
 authors = [
     { name = "Mahmoud Shehata", email = "Mss9253@nyu.edu" },
     { name = "Syed Naqvi", email = "san7576@nyu.edu" },
@@ -27,9 +27,9 @@ classifiers = [
 dev = ["pytest"]
 
 [project.urls]
-"Homepage" = "https://github.com/software-students-spring2025/3-python-package-pyunit"
-"Repository" = "https://github.com/software-students-spring2025/3-python-package-pyunit.git"
-"Bug Tracker" = "https://github.com/software-students-spring2025/3-python-package-pyunit.git/issues"
+"Homepage" = "https://github.com/syed1naqvi/lazydev-python-package"
+"Repository" = "https://github.com/syed1naqvi/lazydev-python-package.git"
+"Bug Tracker" = "https://github.com/syed1naqvi/lazydev-python-package/issues"
 
 [project.scripts]
 lazydev = "lazydev.lazydev:main"
