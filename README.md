@@ -1,4 +1,4 @@
-![Build Status](https://github.com/software-students-spring2025/3-python-package-pyunit/actions/workflows/ci.yml/badge.svg)
+[![Build Status](https://github.com/syed1naqvi/lazydev-python-package/actions/workflows/ci.yml/badge.svg)](https://github.com/syed1naqvi/lazydev-python-package/actions/workflows/ci.yml)
 
 # Documentation
 
